@@ -20,7 +20,7 @@ public class Tracker {
     }
 
     public int size() {
-        return entries.size();
+      
     }
 
     public TimeEntry get(int index) {
